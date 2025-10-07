@@ -10,9 +10,13 @@
 
 <!--START_SECTION:waka-->
 
-```txt
-Go    7 mins          ███████████████████████▓░   94.24 %
-CSS   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+```rust
+From: 05 October 2025 - To: 07 October 2025
+
+Total Time: 7 mins
+
+Go    7 mins          >>>>>>>>>>>>>>>>>>>>>>>>-   94.24 %
+CSS   0 secs          >------------------------   05.76 %
 ```
 
 <!--END_SECTION:waka-->
