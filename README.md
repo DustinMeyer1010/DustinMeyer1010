@@ -19,13 +19,13 @@ Welcome to my profile! Hopefully we can work together.
 <!--START_SECTION:waka-->
 
 ```rust
-From: 05 October 2025 - To: 10 October 2025
+From: 05 October 2025 - To: 11 October 2025
 
-Total Time: 15 hrs 30 mins
+Total Time: 17 hrs 41 mins
 
-Go           13 hrs 20 mins  >>>>>>>>>>>>>>>>>>>>>----   82.48 %
-Markdown     2 hrs 5 mins    >>>----------------------   12.90 %
-Other        40 mins         >------------------------   04.13 %
+Go           15 hrs 31 mins  >>>>>>>>>>>>>>>>>>>>>----   84.56 %
+Markdown     2 hrs 5 mins    >>>----------------------   11.37 %
+Other        40 mins         >------------------------   03.64 %
 ```
 
 <!--END_SECTION:waka-->
