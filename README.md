@@ -19,7 +19,7 @@ Welcome to my profile! Hopefully we can work together.
 <!--START_SECTION:waka-->
 
 ```rust
-From: 05 October 2025 - To: 28 October 2025
+From: 05 October 2025 - To: 29 October 2025
 
 Total Time: 88 hrs 32 mins
 
