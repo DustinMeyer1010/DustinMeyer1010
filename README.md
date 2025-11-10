@@ -10,6 +10,7 @@ Welcome to my profile! Hopefully we can work together.
 ![Static Badge](https://img.shields.io/badge/-React-blue?style=flat&logo=react&logoColor=white&labelColor=blue)
 ![Static Badge](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css&logoColor=white&labelColor=blue)
 ![Static Badge](https://img.shields.io/badge/-HTML-blue?style=flat&logo=html5&logoColor=white&labelColor=blue)
+![Static Badge](https://img.shields.io/badge/-SVELTE-blue?style=flat&logo=svelte&logoColor=white&labelColor=blue)
 
 
 
