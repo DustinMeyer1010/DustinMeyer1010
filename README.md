@@ -37,11 +37,5 @@ Other        47 mins         -------------------------   00.51 %
 <!--END_SECTION:waka-->
 
 
-<a href="https://github.com/DustinMeyer1010">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DustinMeyer1010&hide=java,html,css,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
-</a>
-<a href="https://github.com/DustinMeyer1010">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DustinMeyer1010&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dustin's GitHub Stats" />
-</a>
 
 
