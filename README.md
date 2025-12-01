@@ -20,18 +20,18 @@ Welcome to my profile! Hopefully we can work together.
 <!--START_SECTION:waka-->
 
 ```rust
-From: 05 October 2025 - To: 29 November 2025
+From: 05 October 2025 - To: 30 November 2025
 
-Total Time: 153 hrs 28 mins
+Total Time: 159 hrs 42 mins
 
-Svelte       71 hrs 31 mins  >>>>>>>>>>>>-------------   46.36 %
-Go           60 hrs 14 mins  >>>>>>>>>>---------------   39.05 %
-TypeScript   9 hrs 32 mins   >>-----------------------   06.19 %
-Markdown     2 hrs 50 mins   -------------------------   01.84 %
-CSS          2 hrs 27 mins   -------------------------   01.60 %
-Text         1 hr 43 mins    -------------------------   01.12 %
-JavaScript   54 mins         -------------------------   00.59 %
-Other        47 mins         -------------------------   00.51 %
+Svelte       72 hrs 59 mins  >>>>>>>>>>>--------------   45.45 %
+Go           63 hrs 9 mins   >>>>>>>>>>---------------   39.34 %
+TypeScript   11 hrs 2 mins   >>-----------------------   06.87 %
+Markdown     2 hrs 50 mins   -------------------------   01.77 %
+CSS          2 hrs 27 mins   -------------------------   01.53 %
+Text         1 hr 43 mins    -------------------------   01.08 %
+JavaScript   1 hr 3 mins     -------------------------   00.66 %
+Other        52 mins         -------------------------   00.55 %
 ```
 
 <!--END_SECTION:waka-->
